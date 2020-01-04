@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fa389c2e-f123-420d-81f1-11b9c5755c18" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UetHPRbM2OGmRcK97qaYa79YQX" />
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/repos/web1" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="file.status.colors" />
+    <property name="settings.editor.splitter.proportion" value="0.26653308" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\boris\IdeaProjects\more\src\main\repos\web1" />
+      <recent name="C:\Users\boris\IdeaProjects\more\src\main\repos\temp\css" />
+      <recent name="C:\Users\boris\IdeaProjects\more\src\main\repos\web1\img" />
+      <recent name="C:\Users\boris\IdeaProjects\more\src\main\repos\temp\css\123" />
+      <recent name="C:\Users\boris\IdeaProjects\more\src\main\repos\temp" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\boris\IdeaProjects\more\src\main\repos\web1" />
+      <recent name="C:\Users\boris\IdeaProjects\more\src\main\repos\web" />
+      <recent name="C:\Users\boris\IdeaProjects\more\src\main\kotlin\battleship" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Serverhtml">
+    <configuration name="Serverhtml" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="io.vertx.core.Launcher" />
+      <module name="more" />
+      <option name="PROGRAM_PARAMETERS" value="run battleship.Serverhtml" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="io.vertx.core.Launcher" />
+      <module name="more" />
+      <option name="PROGRAM_PARAMETERS" value="run battleship.Server" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="battleship.MainKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="more" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="battleship.MainKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Unnamed" />
+      <item itemvalue="Application.Serverhtml" />
+      <item itemvalue="Kotlin.battleship.MainKt" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.battleship.MainKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fa389c2e-f123-420d-81f1-11b9c5755c18" name="Default Changelist" comment="" />
+      <created>1575728799823</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575728799823</updated>
+      <workItem from="1575728804922" duration="12936000" />
+      <workItem from="1576287336940" duration="2780000" />
+      <workItem from="1576301623271" duration="15788000" />
+      <workItem from="1576517870517" duration="2101000" />
+      <workItem from="1577208767445" duration="121180000" />
+      <workItem from="1577684256829" duration="4994000" />
+      <workItem from="1577801689096" duration="1524000" />
+      <workItem from="1577892443517" duration="976000" />
+      <workItem from="1578135473282" duration="80000" />
+      <workItem from="1578136264623" duration="2140000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
